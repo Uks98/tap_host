@@ -1,0 +1,2 @@
+rootProject.name = "tab_host2"
+include ':app'
